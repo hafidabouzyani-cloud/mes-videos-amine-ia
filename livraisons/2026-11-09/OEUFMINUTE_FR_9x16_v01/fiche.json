@@ -1,0 +1,366 @@
+{
+ "ref": "OEUFMINUTE",
+ "langue_source": "es",
+ "langue_cible": "fr",
+ "voix": {
+  "id": "hTV7ldu9jYIX5pG8dstc",
+  "repli_id": "",
+  "vitesse_max": 1.07
+ },
+ "lignes": [
+  {
+   "id": "S1",
+   "texte": "Celui qui a inventé ça mérite une prime.",
+   "debut": 0.06,
+   "fin_fenetre": 2.8
+  },
+  {
+   "id": "S2",
+   "texte": "Pour un œuf chaud le matin, pas besoin d'allumer le feu ni de mettre d'huile.",
+   "debut": 3.3,
+   "fin_fenetre": 7.22
+  },
+  {
+   "id": "S3",
+   "texte": "Casse l'œuf, ferme le couvercle, et 30 secondes au micro-ondes.",
+   "debut": 7.26,
+   "fin_fenetre": 11.36
+  },
+  {
+   "id": "S4",
+   "texte": "Ton œuf est prêt, bien chaud et fumant, avec ses deux compartiments séparés.",
+   "debut": 11.4,
+   "fin_fenetre": 15.4
+  },
+  {
+   "id": "S5",
+   "texte": "Tu en fais deux à la fois.",
+   "debut": 15.44,
+   "fin_fenetre": 17.14
+  },
+  {
+   "id": "S6",
+   "texte": "Ils gardent leur forme, sans coller ni casser.",
+   "debut": 17.18,
+   "fin_fenetre": 20.14
+  },
+  {
+   "id": "S7",
+   "texte": "Avec du pain grillé, un délice.",
+   "debut": 20.18,
+   "fin_fenetre": 21.8
+  },
+  {
+   "id": "S8a",
+   "texte": "Si tu veux un petit-déj sans prise de tête,",
+   "debut": 22.1,
+   "fin_fenetre": 24.5
+  },
+  {
+   "id": "S8b",
+   "texte": "C'est tout ce qu'il te faut.",
+   "debut": 24.6,
+   "fin_fenetre": 25.9
+  },
+  {
+   "id": "S9",
+   "texte": "Commande le tien maintenant.",
+   "debut": 25.95,
+   "fin_fenetre": 27.8
+  }
+ ],
+ "mix": {
+  "fond": "musique"
+ },
+ "rendu": {
+  "blocs": "auto",
+  "blocs_auto": {
+   "forcer": [
+    {
+     "images": [
+      0,
+      81
+     ],
+     "rect": [
+      99,
+      840,
+      620,
+      945
+     ],
+     "lignes": 2
+    },
+    {
+     "images": [
+      82,
+      139
+     ],
+     "rect": [
+      63,
+      840,
+      656,
+      945
+     ],
+     "lignes": 2
+    },
+    {
+     "images": [
+      140,
+      186
+     ],
+     "rect": [
+      69,
+      857,
+      650,
+      944
+     ],
+     "lignes": 2
+    },
+    {
+     "images": [
+      187,
+      213
+     ],
+     "rect": [
+      63,
+      857,
+      655,
+      928
+     ],
+     "lignes": 1
+    },
+    {
+     "images": [
+      214,
+      244
+     ],
+     "rect": [
+      168,
+      860,
+      551,
+      925
+     ],
+     "lignes": 1
+    },
+    {
+     "images": [
+      245,
+      337
+     ],
+     "rect": [
+      85,
+      841,
+      634,
+      941
+     ],
+     "lignes": 2
+    },
+    {
+     "images": [
+      338,
+      365
+     ],
+     "rect": [
+      83,
+      841,
+      636,
+      943
+     ],
+     "lignes": 1
+    },
+    {
+     "images": [
+      366,
+      393
+     ],
+     "rect": [
+      90,
+      842,
+      630,
+      943
+     ],
+     "lignes": 1
+    },
+    {
+     "images": [
+      394,
+      459
+     ],
+     "rect": [
+      90,
+      841,
+      629,
+      945
+     ],
+     "lignes": 2
+    },
+    {
+     "images": [
+      460,
+      510
+     ],
+     "rect": [
+      120,
+      841,
+      600,
+      945
+     ],
+     "lignes": 1
+    },
+    {
+     "images": [
+      511,
+      539
+     ],
+     "rect": [
+      119,
+      841,
+      600,
+      945
+     ],
+     "lignes": 1
+    },
+    {
+     "images": [
+      540,
+      601
+     ],
+     "rect": [
+      138,
+      858,
+      581,
+      928
+     ],
+     "lignes": 1
+    },
+    {
+     "images": [
+      602,
+      651
+     ],
+     "rect": [
+      102,
+      842,
+      617,
+      943
+     ],
+     "lignes": 1
+    },
+    {
+     "images": [
+      652,
+      735
+     ],
+     "rect": [
+      66,
+      840,
+      653,
+      945
+     ],
+     "lignes": 2
+    },
+    {
+     "images": [
+      736,
+      777
+     ],
+     "rect": [
+      66,
+      841,
+      653,
+      945
+     ],
+     "lignes": 1
+    },
+    {
+     "images": [
+      778,
+      827
+     ],
+     "rect": [
+      68,
+      841,
+      651,
+      943
+     ],
+     "lignes": 1
+    }
+   ],
+   "taille": 35
+  },
+  "patches": [
+   {
+    "images": [
+     828,
+     880
+    ],
+    "rect": [
+     120,
+     364,
+     599,
+     461
+    ],
+    "remplir": [
+     254,
+     226,
+     0
+    ],
+    "rayon": 10,
+    "lignes": [
+     {
+      "texte": "Commande-le maintenant",
+      "x": 360,
+      "y": 412,
+      "taille": 32,
+      "graisse": 700,
+      "couleur": [
+       0,
+       0,
+       0
+      ],
+      "ancre": "mm"
+     }
+    ]
+   }
+  ],
+  "remplacements": [
+   {
+    "images": [
+     706,
+     751
+    ],
+    "depuis": [
+     [
+      338,
+      383
+     ]
+    ],
+    "mode": "seq"
+   }
+  ]
+ },
+ "marque": "OeufMinute",
+ "produit": "OeufMinute",
+ "site": "kayleene.com",
+ "offre": "celle de la source (aucune offre chiffrée ; CTA « Cómpralo ahora »)",
+ "controle": {
+  "sans_voix": []
+ },
+ "notes": "Diagnostic : sous-titres type 1 (fixes, fond blanc, texte violet, ~y 540/1280 en bas tiers) -> blocs.py, pas de Vmake. Fin : bloc jaune « Cómpralo ahora » (images ~800-880) -> patch couleur unie + texte. Petit « 12 » en haut à gauche sur la fin (~720-880) à vérifier. Pas de logo vu. Brief élève : angle matin pressé, version fidèle 29 s, garder « 30 secondes ». Bloqué : Replicate 402 (pas de crédit) pour séparer voix/musique.",
+ "bilan": {
+  "duree_source_s": 29.5,
+  "vmake_s": 0,
+  "caracteres_elevenlabs": 643,
+  "replicate_appels": 1,
+  "reprises": 1,
+  "problemes": [
+   "Replicate 402 (compte sans crédit) : l'élève a rechargé",
+   "Replicate 502 avec l'en-tête Prefer: wait=60 d'analyse.py (coupure par le proxy) : séparation relancée à la main sans attente longue, même modèle",
+   "blocs.py ne détecte pas le texte violet sur blocs blancs : 16 rectangles mesurés à la main (blocs_auto.forcer + taille 35)",
+   "blocs.py coupait « …ni de mettre / d'huile » : texte corrigé à la main dans blocs.json",
+   "Sous-titres en noir (rendu.py fixe la couleur) alors que l'original est violet",
+   "Trous de voix S4→S5 et S8→S9 : S4 rallongée, S8 coupée en S8a/S8b avec la pause de la source (2 reclonages, 208 caractères en plus)",
+   "Plan visage (images 706-751) remplacé par 338-383 à la demande de l'élève",
+   "Brief élève hors méthode (UGC 15-25 s, 4 angles) : version fidèle 29 s faite d'abord, autres angles à faire une par une"
+  ]
+ }
+}
